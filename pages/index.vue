@@ -412,7 +412,7 @@ export default {
 </script>
 
 <style scoped>
-@import url("http://fonts.cdnfonts.com/css/pf-dintext-pro-medium");
+@import url("https://fonts.cdnfonts.com/css/pf-dintext-pro-medium");
 .buttonktu:hover,
 .buttonktu:focus {
   background-color: #000000; /* Green */
